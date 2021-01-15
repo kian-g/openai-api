@@ -18,7 +18,7 @@ This project is not affiliated with OpenAI and was written purely out of interes
 
 ```js
 const OpenAI = require('openai-api');
-const OPEN_AI_API_KEY = ####################
+const OPEN_AI_API_KEY = "####################"
 const openai = new OpenAI(OPEN_AI_API_KEY);
 
 (async () => {
