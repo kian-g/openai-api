@@ -13,7 +13,9 @@
     "openaiapi",
     "open",
     "ai",
-    "node"
+    "node",
+    "open-ai",
+    "open-ai-api"
   ],
   "author": "Nikita Jerschow",
   "license": "ISC",
