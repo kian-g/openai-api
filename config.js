@@ -1,5 +1,5 @@
-const DEFAULT_ENGINE = 'davinci';
-const ENGINE_LIST = ['davinci', 'ada', 'babbage', 'curie'];
+const DEFAULT_ENGINE = "davinci";
+const ENGINE_LIST = ["davinci", "ada", "babbage", "curie"];
 
 module.exports = {
     completionURL: (engine) => {
