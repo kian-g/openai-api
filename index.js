@@ -1,7 +1,7 @@
 "use strict";
 
 const config = require('./config'),
-axios = require('axios');
+    axios = require('axios');
 
 class OpenAI {
     constructor(api_key) {
